@@ -1,1 +1,1 @@
-greeting = "hello world" #variable with a value
+greeting = "Hello World" #variable with a value
